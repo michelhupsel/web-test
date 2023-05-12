@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "codeceptjs": "^3.4.1",
+    "playwright": "^1.33.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
